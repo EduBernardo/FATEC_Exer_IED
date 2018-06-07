@@ -1,0 +1,18 @@
+Lista de Exercícios
+ED_5(Pilhas)
+
+1.ª) Criar um programa em C++  que apresente as operações básicas da estrutura de dados Pilha, da seguinte maneira:
+
+
+			Menu de opções
+
+1.	Inserir um número inteiro na Pilha
+2.	Remover um elemento da Pilha
+3.	Mostrar o elemento do topo da Pilha
+4.	Mostrar os elementos da Pilha
+5.	Sair
+
+
+Obs.: Utilizar a instrução Switch para criar o menu.
+
+
